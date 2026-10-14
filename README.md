@@ -1,7 +1,7 @@
 # CodeMap
 Aqui avanzaremos los proximos trabajos
 
-Proyecto de Complejidad Algorítmica. Modela las zonas urbanas y redes de distribución como un grafo para analizar conectividad, propagación y optimización de puntos de medición acústica en tiempo real para **sonoMap**.
+Principalmente para el landing page.
 
 
 
