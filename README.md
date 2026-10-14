@@ -3,8 +3,7 @@ Aqui avanzaremos los proximos trabajos
 
 Proyecto de Complejidad Algorítmica. Modela las zonas urbanas y redes de distribución como un grafo para analizar conectividad, propagación y optimización de puntos de medición acústica en tiempo real para **sonoMap**.
 
-## Dataset
-`Pythons/SED_1500_CHIMBOTE.csv`: Datos espaciales y de infraestructura con coordenadas UTM, niveles de presión sonora y zonas de alto tráfico acústico. Fuente: [completar con la fuente y la fecha de corte].
+
 
 ## Técnicas implementadas
 
